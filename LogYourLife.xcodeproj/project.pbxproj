@@ -14,6 +14,8 @@
 		D6F68C112C47813A0019640A /* LogYourLifeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F68C102C47813A0019640A /* LogYourLifeTests.swift */; };
 		D6F68C1B2C47813A0019640A /* LogYourLifeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F68C1A2C47813A0019640A /* LogYourLifeUITests.swift */; };
 		D6F68C1D2C47813A0019640A /* LogYourLifeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F68C1C2C47813A0019640A /* LogYourLifeUITestsLaunchTests.swift */; };
+		D6F68C2A2C4781570019640A /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F68C292C4781570019640A /* SwiftUIView.swift */; };
+		D6F68C2C2C478CBC0019640A /* TimeSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F68C2B2C478CBC0019640A /* TimeSet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		D6F68C162C47813A0019640A /* LogYourLifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LogYourLifeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6F68C1A2C47813A0019640A /* LogYourLifeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogYourLifeUITests.swift; sourceTree = "<group>"; };
 		D6F68C1C2C47813A0019640A /* LogYourLifeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogYourLifeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D6F68C292C4781570019640A /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		D6F68C2B2C478CBC0019640A /* TimeSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeSet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				D6F68C012C4781390019640A /* ContentView.swift */,
 				D6F68C032C4781390019640A /* Assets.xcassets */,
 				D6F68C052C4781390019640A /* Preview Content */,
+				D6F68C292C4781570019640A /* SwiftUIView.swift */,
+				D6F68C2B2C478CBC0019640A /* TimeSet.swift */,
 			);
 			path = LogYourLife;
 			sourceTree = "<group>";
@@ -259,6 +265,8 @@
 			files = (
 				D6F68C022C4781390019640A /* ContentView.swift in Sources */,
 				D6F68C002C4781390019640A /* LogYourLifeApp.swift in Sources */,
+				D6F68C2A2C4781570019640A /* SwiftUIView.swift in Sources */,
+				D6F68C2C2C478CBC0019640A /* TimeSet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
